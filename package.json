@@ -1,0 +1,16 @@
+{
+  "name": "percy",
+  "version": "1.0.0",
+  "description": "Projeto Visual Regression",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renato de Oliveira Nunes",
+  "license": "ISC",
+  "devDependencies": {
+    "@percy/cli": "^1.0.0-beta.48",
+    "@percy/cypress": "^3.1.0",
+    "cypress": "^7.2.0"
+  }
+}
