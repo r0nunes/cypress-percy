@@ -10,3 +10,4 @@ describe('Testes de regressão visual', () => {
 
   });
 });
+
